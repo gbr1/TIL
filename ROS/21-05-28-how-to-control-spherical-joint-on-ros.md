@@ -59,7 +59,7 @@ To obtain the perfect functioning we must add a TF broadcaster.
 Here an example in python.
 
 
-```pyth
+```python
 #!/usr/bin/env python3
 
 import rospy
