@@ -99,6 +99,8 @@ if __name__ == '__main__':
 
 So you will obtain an oscillatition on pitch and yaw and the visual is loaded correctly.
 
-Here what you can see:![spherical-joint](../.geeks-diary/assets/spherical-joint.gif)
+Here what you can see:
+
+![spherical-joint](../.geeks-diary/assets/spherical-joint.gif)
 
 
