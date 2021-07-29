@@ -4,7 +4,7 @@
 
 Arduino Nano 33 IOT is based on Atmel SAMD21G microcontroller.
 This mcu manages some perpherials. Check the official pinout:)
-![](/Users/giovanni/Documents/git/TIL/_assets/Pinout-NANO33IoT_latest.png)
+![../_assets/Pinout-NANO33IoT_latest.png](../_assets/Pinout-NANO33IoT_latest.png)
 
 This board has an IMU and a cyptochip onboard attached to I2C on pins A4-A5. During a project development I found a sort of conflict, or simply a strange behaviour, by connecting a TCA9548a and 5 MPU6050.
 
