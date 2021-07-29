@@ -91,4 +91,4 @@ So you will obtain an oscillatition on pitch and yaw and the visual is loaded co
 
 Here what you can see:
 
-![_assets/spherical-joint.gif](_assets/spherical-joint.gif)
+![../_assets/spherical-joint.gif](../_assets/spherical-joint.gif)
