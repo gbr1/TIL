@@ -1,5 +1,3 @@
-
-
 # Adding I2C via SERCOM on Arduino Nano 33 IOT
 
 Arduino Nano 33 IOT is based on Atmel SAMD21G microcontroller.

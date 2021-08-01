@@ -18,6 +18,4 @@ This method should work on any linux platform!
 
 `$``sudo dphys-swapfile swapon`
 
-
-
 Run `htop` to check memory.
